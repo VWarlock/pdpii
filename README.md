@@ -3,6 +3,12 @@ Open source PDP-11 compatible motherboard in mini-ITX form factor (170 x 170 mm)
 
 ![](https://raw.githubusercontent.com/shaos/pdpii/master/PDPii.gif "sketch")
 
-![](https://raw.githubusercontent.com/shaos/pdpii/master/mini-ITX.jpg "mini-ITX")
+Copyright SHAOS 2018
 
-Source: http://www.formfactors.org/developer%5Cspecs%5Cmini_itx_spec_V1_1.pdf
+This documentation describes Open Hardware and is licensed under the CERN OHL v.1.2.
+
+You may redistribute and modify this documentation under the terms of the CERN OHL v.1.2.
+( http://ohwr.org/cernohl ). This documentation is distributed
+WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF
+MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
+PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable conditions
