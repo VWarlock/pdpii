@@ -1,1 +1,9 @@
-May 1, 2018	Initial release of CPU board nedoPC-18.02 v1.0
+May 1, 2018	Initial release of CPU board nedoPC-18.02 v1.0:
+		boards/nedo1802_v1_0.sch
+		boards/nedo1802_v1_0.brd
+
+May 5, 2018	Template boards released (fulls size and short versions):
+		boards/nedo1800.sch
+		boards/nedo1800.brd
+		boards/nedo1800s.sch
+		boards/nedo1800s.brd
