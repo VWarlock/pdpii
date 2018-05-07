@@ -7,3 +7,7 @@ May 5, 2018	Template boards released (fulls size and short versions):
 		boards/nedo1800.brd
 		boards/nedo1800s.sch
 		boards/nedo1800s.brd
+
+May 6, 2018	Added ROM module 64Kwords nedoPC-18.10 v1.0
+		boards/nedo1810_v1_0.sch
+		boards/nedo1810_v1_0.brd
